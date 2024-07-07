@@ -1,6 +1,6 @@
 msubtitles:
-  - source: https://raw.githubusercontent.com/9jfcc/snowfallz/main/Civil.War.2024.WEB.srt
-    subtitles:
+  - source: https://raw.githubusercontent.com/9jfcc/snowfallz/main/Civil%20War%20_%20Official%20Trailer%20HD%20_%20A24.srt
+    subtitles: arabic
       - season: 0
         items:
           - path: 01/cicil.war.s0.ar.srt
